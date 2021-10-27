@@ -1,0 +1,9 @@
+.chart {
+  width: 50%;
+  height: 200px;
+  color: #fff;
+  text-align: center;
+  line-height: 200px;
+  background-color: #eee;
+  margin: 10px;
+}

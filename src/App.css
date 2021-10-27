@@ -1,0 +1,45 @@
+.app {
+  padding: 20px;
+  background-color: #eee;
+}
+
+.head {
+  padding: 10px;
+  background-color: #fff;
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.item {
+  padding: 5px;
+  background-color: #000;
+  color: #fff;
+  width: 50px;
+  height: 20px;
+  line-height: 20px;
+  text-align: center;
+  margin-right: 20px;
+}
+
+.container {
+  display: flex;
+  height: 400px;
+}
+
+.main {
+  width: 100%;
+  background-color: #fff;
+  padding: 10px;
+  display: flex;
+}
+
+.sider {
+  width: 400px;
+  background-color: #fff;
+  margin-left: 20px;
+  padding: 10px;
+}
+
+.title {
+  margin-bottom: 20px;
+}
